@@ -1,0 +1,27 @@
+{
+  "name": "blogme",
+  "version": "1.0.0",
+  "description": "A basic blog using Node, Express, MySQL, Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingflowersfordinosaurs/BlogMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingflowersfordinosaurs/BlogMe/issues"
+  },
+  "homepage": "https://github.com/codingflowersfordinosaurs/BlogMe#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "express-handlebars": "^3.1.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "sequelize": "^5.8.6",
+    "sequelize-cli": "^5.4.0"
+  }
+}
