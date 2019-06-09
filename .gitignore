@@ -1,3 +1,4 @@
 node_modules
 config
 seeders
+package-lock.json
